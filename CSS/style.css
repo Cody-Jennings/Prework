@@ -38,14 +38,11 @@ table{
 	position: relative;
 }
 #div2{
-	background-color: blue;
+	background-color: lightblue;
 	border:solid;
-	width: 214px;
-}
-.container{
-	position:relative
+	width: 750px;
 }
 form{
-	display: static;
+	position: static;
 	text-align: right;
 }
