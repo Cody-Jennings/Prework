@@ -17,6 +17,18 @@ h3{
 p{
 	font-family: 'Algerian';
 }
+form{
+	font-family: 'Algerian';
+	padding: 5px;
+	background-color: green;
+	border-style: dashed;
+	font-size: larger;
+}
+input[type=button] {
+	color:black;
+	background-color: red;
+	padding: 5px;
+}
 ul{
 	font-family: 'Algerian';
 	display: inline;
